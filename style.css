@@ -1,0 +1,30 @@
+html {
+    background-color: darkgoldenrod;
+}
+
+img {
+    height: 500px;
+    width: 700px;
+    border-color: red;
+}
+
+h1 {
+font-size: 60px;
+text-align: center;
+background-color: red;
+border: 20px;
+border-color: black;
+}
+
+h2 {
+    font-size: 40px;
+    text-align: center;
+    color: gold;
+    background-color: black;
+}
+
+p {
+    text-align: center;
+    font-size: 25px;
+
+}
