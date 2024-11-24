@@ -11,7 +11,7 @@ Página simples feita com HTML5 e CSS3 , Conteúdo Desportivo de MMA.
 <body>
     <main>
         <div>
-            <img src="html.MaioresCampeoesUFC/imagens/448467605_3073687332762417_5491951494082031274_n.jpg" alt="Lutador de MMA">
+            <img src="https://github.com/samuelsfilho/MaioresCampeoesUFC/blob/main/imagens/448467605_3073687332762417_5491951494082031274_n.jpg" alt="Lutador de MMA">
         </div>
     </main>
 </body>
